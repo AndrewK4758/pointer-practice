@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ak475826/projects/personal/c-practice/build",
+  "command": "/usr/bin/gcc-12   -g -o CMakeFiles/practice.dir/main.c.o -c /home/ak475826/projects/personal/c-practice/main.c",
+  "file": "/home/ak475826/projects/personal/c-practice/main.c"
+}
+]
